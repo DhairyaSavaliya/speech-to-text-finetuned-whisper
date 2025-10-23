@@ -31,14 +31,14 @@ This project is part of my **undergraduate research direction in AI/ML**, streng
 ## 🏗️ Project Architecture
 
 data/
- ├── train/
- ├── test/
- └── custom_audio_samples/
+├── train/
+├── test/
+└── custom_audio_samples/
 notebooks/
- ├── ASR_Fine_Tuned.ipynb      # Fine-tuning workflow
- └── Speech_to_Text_Baseline.ipynb  # Pretrained Whisper demo & deployment
+├── ASR_Fine_Tuned.ipynb # Fine-tuning workflow
+└── Speech_to_Text_Baseline.ipynb # Pretrained Whisper demo & deployment
 assets/
- └── demo_screenshot.png
+└── demo_screenshot.png
 requirements.txt
 README.md
 
