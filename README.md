@@ -29,7 +29,7 @@ This project is part of my **undergraduate research direction in AI/ML**, streng
 ---
 
 ## 🏗️ Project Architecture
-
+ ```text
 data/
 ├── train/
 ├── test/
@@ -41,7 +41,7 @@ assets/
 └── demo_screenshot.png
 requirements.txt
 README.md
-
+```
 
 ---
 
