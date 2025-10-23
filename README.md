@@ -121,6 +121,16 @@ README.md
 |Evaluation |	JiWER, Evaluate |
 |Environment |	Google Colab (T4 GPU) |
 
+## How to Run
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/DhairyaSavaliya/](https://github.com/DhairyaSavaliya/speech-to-text-finetuned-whisper
+   ```
+2. Install dependencies:
+   ```sh
+   pip install -r requirements.txt
+   ```
+
 🧑‍💻 Author
 
 Dhairya Savaliya |
