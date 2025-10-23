@@ -96,7 +96,7 @@ README.md
 
 | Fine-tuned Whisper Demo |
 |--------------------------|
-| ![Deployment Screenshot](assets/demo_screenshot.png) |
+| ![Deployment Screenshot](assets/Demo_Screenshot.png) |
 
 *(Executed in Google Colab using Gradio — can be replicated easily.)*
 
