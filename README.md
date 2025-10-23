@@ -105,23 +105,25 @@ README.md
 
 💬 Future Work
 
-Quantitative benchmarking on Common Voice dataset
+>Quantitative benchmarking on Common Voice dataset
 
-Experimenting with Whisper Medium or Large for multilingual ASR
+>Experimenting with Whisper Medium or Large for multilingual ASR
 
-Exporting model as a FastAPI endpoint or Hugging Face Space
+>Exporting model as a FastAPI endpoint or Hugging Face Space
 
 📄 Tech Stack
-Category	Tools
-Framework	PyTorch, Hugging Face Transformers
-Deployment	Gradio
-Audio Processing	Librosa, SoundFile, Torchaudio
-Evaluation	JiWER, Evaluate
-Environment	Google Colab (T4 GPU)
+
+|Category |	Tools |
+|---------|--------|
+|Framework |	PyTorch, Hugging Face Transformers |
+|Deployment |	Gradio |
+|Audio Processing |	Librosa, SoundFile, Torchaudio |
+|Evaluation |	JiWER, Evaluate |
+|Environment |	Google Colab (T4 GPU) |
 
 🧑‍💻 Author
 
-Dhairya Savaliya
+Dhairya Savaliya |
 B.Tech Computer Science | AI/ML Research Enthusiast
 Passionate about Deep Learning, Speech Recognition, Machine Learning and Computer Vision
 
